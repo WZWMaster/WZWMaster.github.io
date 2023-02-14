@@ -9,16 +9,32 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">加载中</div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      name: '文仔大大的博客',
+      nameLink: '/',
+      repo: 'https://github.com/WZWMaster/WZWMaster.github.io',
+      maxLevel:3,
+      coverpage:true,
       loadSidebar: true,
+      autoHeader: true,
       subMaxLevel:2,
       loadNavbar:true,
-      coverpage:true,
-      onlyCover:true
+      onlyCover:true,
+      auto2top: true,
+      themeColor: '#FF9900',
+      mergeNavbar: true,
+      notFoundPage: true,
+
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+
+        formatUpdated: function(time) {
+           // ...
+
+        return time;
+      },
+
     }
   </script>
   <!-- Docsify v4 -->
