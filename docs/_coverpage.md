@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](images/TX)
+![logo](images/TX.jpg)
 
 # 文仔大大的博客 <small>3.5</small>
 
@@ -10,5 +10,5 @@
 - 无需生成 html 文件
 - 众多主题 -->
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/WZWMaster/WZWMaster.github.io)
 [Get Started](README)
