@@ -1,7 +1,7 @@
-# Headline
+# 博客首页
 
 > An awesome project.
 
-Hello docisy!!!!!
+巴拉巴拉，暂时没有想好要写什么，就是这么随意
 
-[>>操作指南](guide)
+[>>返回主页](/)

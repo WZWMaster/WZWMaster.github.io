@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<!-- ![logo](images/TX.jpg) -->
+![logo](images/TX.png)
 
 # 文仔大大的博客 <!-- <small>3.5</small> -->
 
