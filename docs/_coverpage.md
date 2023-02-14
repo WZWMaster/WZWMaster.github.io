@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](images/TX.jpg)
+<!-- ![logo](images/TX.jpg) -->
 
-# 文仔大大的博客 <small>3.5</small>
+# 文仔大大的博客 <!-- <small>3.5</small> -->
 
 > 简单记录了一些信息。
 
