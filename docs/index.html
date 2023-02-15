@@ -9,6 +9,8 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <!-- gitalk评论系统 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <!-- docsify问答插件 -->
+  <link rel="stylesheet" href="//unpkg.com/docsify-accordion/src/style.css">
 </head>
 <body>
   <div id="app">加载中</div>
@@ -27,6 +29,9 @@
       auto2top: true,
       themeColor: '#FF9900',
       notFoundPage: true,
+
+      /* 开启网站访问量显示 */
+      busuanzi: true,
 
       /* 字数统计 */
       count:{
@@ -113,5 +118,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script src="https://unpkg.com/docsify-gitalk@1.0.0/dist/docsify-gitalk.min.js"></script>
+  <!-- docsify问答插件 -->
+  <script src="//unpkg.com/docsify-accordion/src/index.js"></script>
+  <!-- 显示访问网站量 -->
+  <script src="https://unpkg.com/docsify-busuanzi@1.0.1/dist/docsify-busuanzi.min.js"></script>
 </body>
 </html>
