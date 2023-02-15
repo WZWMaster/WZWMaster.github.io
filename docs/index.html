@@ -7,6 +7,8 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- gitalk评论系统 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
 <body>
   <div id="app">加载中</div>
@@ -81,6 +83,16 @@
         logo: '🔝',				// logo:字符串或svg矢量图代码，默认为svg代码图标。
         bgColor: '\#2096ff'    	// 背景颜色，#fff、pink等，logo为svg图标时，不填。
       },
+
+      /* gitalk评论系统 */
+      gitalk: {
+        clientID: '81d13f12fca36565af7e',
+        clientSecret: 'b179f9d3436d20cf730220a271a0c8392b52f7bb',
+        repo: 'docsify-gitalk-byWZWMaster',
+        owner: 'WZWMaster',
+        admin: ['WZWMaster']
+      },
+
     }
   </script>
   <!-- Docsify v4 -->
@@ -97,5 +109,9 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
   <!-- 回到顶部 -->
   <script src="https://cdn.jsdelivr.net/gh/Sumsung524/docsify-backTop/dist/docsify-backTop.min.js"></script>
+  <!-- gitalk评论系统 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="https://unpkg.com/docsify-gitalk@1.0.0/dist/docsify-gitalk.min.js"></script>
 </body>
 </html>
