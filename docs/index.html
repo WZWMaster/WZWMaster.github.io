@@ -24,20 +24,78 @@
       onlyCover:true,
       auto2top: true,
       themeColor: '#FF9900',
-      mergeNavbar: true,
       notFoundPage: true,
 
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
-
-        formatUpdated: function(time) {
-           // ...
-
-        return time;
+      /* 字数统计 */
+      count:{
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
       },
 
+      /* Tabs选项卡 */
+      // ...
+      tabs: {
+        persist    : true,      // default
+        sync       : true,      // default
+        theme      : 'classic', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      },
+      
+      /* Alerts提示 */
+      'flexible-alerts': {
+        note: {
+          label: "注释"
+        },
+        tip: {
+          label: "提示"
+        },
+        warning: {
+          label: "警告"
+        },
+        attention: {
+          label: "注意"
+        }
+      },
+
+      /* 最近更新记录 */
+      timeUpdater: {
+        text: "<div align='right' width='100px' style='color:gray;font-size:14px;margin-top:10px;'>最后更新时间:{docsify-updated}</div>",
+        formatUpdated: "{YYYY}-{MM}-{DD} {HH}:{mm}",
+      },
+
+      /* 进度条显示 */
+      progress: {
+        position: "top",
+        color: "var(--theme-color,#42b983)",
+        height: "3px",
+      },
+
+      /* 回到顶部 */
+      docsifyBackTop:{
+        size: 32,           	// 数值，组件大小，默认值32。
+        bottom: 15,         	// 数值，组件底部偏移距离，默认值15。
+        right: 15,          	// 数值，组件右侧偏移距离，默认值15。
+        logo: '🔝',				// logo:字符串或svg矢量图代码，默认为svg代码图标。
+        bgColor: '\#2096ff'    	// 背景颜色，#fff、pink等，logo为svg图标时，不填。
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- 字数统计 -->
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!-- Tabs选项卡 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- Alerts提示 -->
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <!-- 最近更新记录 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+  <!-- 进度条显示 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+  <!-- 回到顶部 -->
+  <script src="https://cdn.jsdelivr.net/gh/Sumsung524/docsify-backTop/dist/docsify-backTop.min.js"></script>
 </body>
 </html>
