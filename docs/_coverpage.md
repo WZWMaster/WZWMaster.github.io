@@ -11,4 +11,4 @@
 - 众多主题 -->
 
 [GitHub](https://github.com/WZWMaster/WZWMaster.github.io)
-[Get Started](README "首页")
+[Get Started](README "博客首页")
