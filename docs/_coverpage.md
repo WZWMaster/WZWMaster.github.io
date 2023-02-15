@@ -10,5 +10,5 @@
 - 无需生成 html 文件
 - 众多主题 -->
 
-[文仔导航页](https://github.com/WZWMaster/WZWMaster.github.io)
+[文仔导航页](https://www.rcspojie.cn/)
 [开始阅读](README "博客首页")
