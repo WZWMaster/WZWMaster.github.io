@@ -35,4 +35,19 @@ Ciao!
 - [X] sddsda
 - [ ] sddsda
 
+# 问答插件写法
+
+# FAQ Section
+
+Introduction text for the FAQ page.
+
++ Question 1? +
+
+  Answer 1
+
++ Question 2? +
+
+  Answer 2
+
+
 [>>返回首页](README)
