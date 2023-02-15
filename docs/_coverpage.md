@@ -10,5 +10,5 @@
 - 无需生成 html 文件
 - 众多主题 -->
 
-[GitHub](https://github.com/WZWMaster/WZWMaster.github.io)
-[Get Started](README "博客首页")
+[文仔导航页](https://github.com/WZWMaster/WZWMaster.github.io)
+[开始阅读](README "博客首页")
