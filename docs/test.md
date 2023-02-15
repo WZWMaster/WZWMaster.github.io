@@ -37,8 +37,6 @@ Ciao!
 
 # 问答插件写法
 
-# FAQ Section
-
 Introduction text for the FAQ page.
 
 + Question 1? +
@@ -49,5 +47,22 @@ Introduction text for the FAQ page.
 
   Answer 2
 
+# 代码高亮
+
+```html
+<p>This is a paragraph</p>
+<a href="//docsify.js.org/">Docsify</a>
+```
+
+```bash
+echo "hello"
+```
+
+```php
+function getAdder(int $x): int 
+{
+    return 123;
+}
+```
 
 [>>返回首页](README)
