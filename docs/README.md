@@ -22,6 +22,4 @@
 
 ![](/images/Reverse.jpg)
 
-![修改器界面](/GameTrainer/Trainer/images/ICEY.png)
-
 - 很久没有去弄了
