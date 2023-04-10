@@ -1,6 +1,6 @@
 ## 艾希修改器
 
-![修改器界面](https://img-blog.csdnimg.cn/e15b0dccfafd42f3b778415c8394f763.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6Zuo57-86L275bCY,size_20,color_FFFFFF,t_70,g_se,x_16)
+![修改器界面](/images/ICEY.png)
 
 **修改器简介：**
 
