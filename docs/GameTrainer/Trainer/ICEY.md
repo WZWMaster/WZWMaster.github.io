@@ -1,6 +1,6 @@
 ## 艾希修改器
 
-![修改器界面](/images/trainer/ICEY.png)
+![修改器界面](.../images/trainer/ICEY.png)
 
 **修改器简介：**
 
