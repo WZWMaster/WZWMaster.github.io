@@ -22,6 +22,6 @@
 
 ![](/images/Reverse.jpg)
 
-![](/images/Reverse.jpg)
+![66](/images/Reverse.jpg)
 
 - 很久没有去弄了
