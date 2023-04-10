@@ -2,7 +2,7 @@
 
 **修改器界面：**
 
-![](/images/Trainer/MuseDash.jpg)
+![](/images/MuseDash.png)
 
 **修改器简介：**
 

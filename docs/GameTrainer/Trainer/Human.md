@@ -1,6 +1,6 @@
 ## 喵斯快跑修改器
 
-![](/images/Trainer/MuseDash.png)
+![](/images/MuseDash.png)
 
 **修改器简介：**
 

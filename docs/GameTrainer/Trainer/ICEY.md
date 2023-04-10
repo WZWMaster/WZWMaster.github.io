@@ -2,7 +2,7 @@
 
 **修改器界面：**
 
-![](/images/Trainer/ICEY.jpg)
+![](/images/ICEY.png)
 
 **修改器简介：**
 
