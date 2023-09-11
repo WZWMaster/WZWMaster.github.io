@@ -6,9 +6,9 @@
 
 #### 3.[艾希修改器](/GameTrainer/Trainer/ICEY.md "艾希修改器") 
 
-#### 4.[艾希修改器](/GameTrainer/Trainer/popcapgame1.md "植物大战僵尸英文年度版修改器") 
+#### 4.[植物大战僵尸英文年度版修改器](/GameTrainer/Trainer/popcapgame1.md "植物大战僵尸英文年度版修改器") 
 
-#### 5.[艾希修改器](/GameTrainer/Trainer/VPet-Simulator.Windows.md "虚拟桌宠模拟器修改器") 
+#### 5.[虚拟桌宠模拟器修改器](/GameTrainer/Trainer/VPet-Simulator.Windows.md "虚拟桌宠模拟器修改器") 
 
 
 
