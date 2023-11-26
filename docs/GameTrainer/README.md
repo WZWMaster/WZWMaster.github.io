@@ -10,6 +10,8 @@
 
 #### 5.[虚拟桌宠模拟器修改器](/GameTrainer/Trainer/VPet-Simulator.Windows.md "虚拟桌宠模拟器修改器") 
 
+#### 6.[深海迷航修改器](/GameTrainer/Trainer/Subnautica.md "深海迷航修改器") 
+
 
 
 
